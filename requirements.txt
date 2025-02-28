@@ -1,0 +1,6 @@
+Flask
+Flask-PyMongo
+Flask-JWT-Extended
+requests
+python-dotenv
+FPDF
